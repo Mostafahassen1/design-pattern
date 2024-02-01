@@ -10,3 +10,5 @@ public class Main {
 
     }
 }
+
+                //  //  " This is good way with Single Threads "  //  //  
